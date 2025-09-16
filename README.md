@@ -3,7 +3,7 @@ Developer Erez Yahalomi ארז  יהלומי : LLM Chatbot inside a Python progr
 Run the program and chatbot from your computer or server; no browser is required.   
 You can chat with this chatbot on any subjects.  
 
-For a paid customized chatbot such as: Chatbot to  your website, adding RAG, interfacing with ChatGPT newest version or, local LLM.   
+For a paid customized chatbot such as: Chatbot inside  your website, adding RAG, interfacing with ChatGPT newest version or, local LLM.   
 Contact Erez Yahalomi, Email :erez.yah@gmail.com  
 
 
