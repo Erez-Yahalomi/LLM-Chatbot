@@ -11,5 +11,5 @@ For installation and running guidance go to, Installation and running file in th
 Examples of two chats made with this cahtbot:
 1. Chatbot assistance on how to repair a damaged smartphone’s screen. See the chat in the file, technical support chat.
 2. Chatbot recommendation on medical treatment to pet illness, including suggesting medicine to the pet by this chatbot
- (No guarantees on the chatbot medical or treatment advices. Consult a physician on the chatbot recommendations). Following is the chat, click on the chat image:
+ (No guarantees on the chatbot medical or treatment advices. Consult a veterinarian on the chatbot recommendations). Following is the chat, click on the chat image:
 ![Image](https://github.com/user-attachments/assets/ed77d5a5-24dc-43f8-9866-c90f809055d9)
