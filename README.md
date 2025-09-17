@@ -7,7 +7,8 @@ For a paid customized chatbot such as: Chatbot inside  your website, adding RAG,
 Contact Erez Yahalomi, Email :erez.yah@gmail.com  
 
 
-For installation and running guidance go to, Installation and running file in this repository.
+For installation and running guidance go to, Installation and running file in this repository.  
+
 Examples of two chats made with this cahtbot:
 1. Chatbot assistance on how to repair a damaged smartphone’s screen. See the chat in the file, technical support chat.
 2. Chatbot recommendation on medical treatment to pet illness, including suggesting medicine to the pet by this chatbot
